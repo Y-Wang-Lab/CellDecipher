@@ -1,0 +1,4 @@
+zlib1g-dev
+liblzma-dev
+libbz2-dev
+libcurl4-openssl-dev

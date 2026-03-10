@@ -1,0 +1,50 @@
+# Web Framework
+streamlit>=1.36.0
+
+# Single-Cell Analysis
+scanpy>=1.10.0
+anndata>=0.10.0
+cellxgene-census>=1.15.0
+scikit-misc>=0.5.0
+
+# Data Handling
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+h5py>=3.9.0
+
+# LLM Integration
+openai>=1.35.0
+anthropic>=0.28.0
+
+# DNA Probe Design
+primer3-py>=2.0.0
+biopython>=1.82
+pysam>=0.22.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# GEO Data Access
+GEOparse>=2.0.0
+
+# HTTP/API
+requests>=2.31.0
+httpx>=0.27.0
+
+# SSH/Remote Execution
+paramiko>=3.4.0
+
+# Data Validation
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Utilities
+python-dotenv>=1.0.0
+tenacity>=8.2.0
+tqdm>=4.66.0
+setuptools>=70.0.0
